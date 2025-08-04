@@ -1,7 +1,5 @@
 # Aprendizaje Automático para la Priorización de Candidatos a Análisis de Pedigrí Forense
 
-<p align = "center"> <sup>Juan José H. Beltrán, Alejandro Martínez Rivera, Cristopher Eduardo Ascencio Cruz, Miranda Fabiola Córdova Mercado, Mayra Edduardoff, Ángel David Reyes Figueroa. </sup> </p>
-
 ## Introducción
 
 <p align = "justify"> Año con año, las desapariciones en México siguen en aumento, con un total de 128,064 personas desaparecidas hasta mayo de 2025. Ante esta realidad, resulta fundamental desarrollar estrategias que permitan identificar y distinguir relaciones de parentesco en las búsquedas en bases de datos genéticos. </p>
